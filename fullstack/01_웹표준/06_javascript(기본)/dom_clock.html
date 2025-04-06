@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>dom_clock</title>
+    <script>
+      window.onload = function () {
+        let clock = document.getElementById("clock");
+
+        // 1000이 1초임
+        setInterval(function () {
+          let now = new Date();
+          clock.innerHTML = now.toString();
+        }, 1000);
+      };
+    </script>
+  </head>
+  <body>
+    <h1 id="clock"></h1>
+  </body>
+</html>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>control</title>
+    <script>
+      window.onload = function () {
+        let rslt = "";
+        for (let i = 0; i < 10; i++) {
+          rslt += "<h1>Header -" + i + "</h1>";
+        }
+
+        // 단순 텍스트 출력
+        // document.body.textContent = rslt;
+        // HTML 태그 적용
+        document.body.innerHTML = rslt;
+      };
+    </script>
+  </head>
+  <body></body>
+</html>
