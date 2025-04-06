@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1001,
+    "name": "이날치",
+    "photo": "https://via.placeholder.com/120x160.png?text=1001",
+    "description": "설명 텍스트",
+    "instagram": "https://instagram.com",
+    "facebook": "https://facebook.com",
+    "youtube": "https://youtube.com"
+  }
+]
