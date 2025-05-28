@@ -99,23 +99,23 @@ KB IT's Your Life 실습과제
 ### 06 - Servlet, JSP, Spring
 
 
-| 항목                                           | 기본 디렉토리                     | 제출 | 심화 디렉토리                     | 제출 |
-| ---------------------------------------------- | ---------------------------------- | :--: | ---------------------------------- | :--: |
-| 01 서블릿 기초                                 | `01_servlet(기본)`                |      | `01_servlet(심화)`                |      |
-| 02 JSP의 이해                                  | `02_jsp(기본)`                    |      | `02_jsp(심화)`                    |      |
-| 03 서블릿 심화                                 | `03_servlet_advanced(기본)`       |      | `03_servlet_advanced(심화)`       |      |
-| 04 요청 포워딩, EL, JSTL                       | `04_jstl_el(기본)`                |      | `04_jstl_el(심화)`                |      |
-| 05 FrontController                              | `05_frontcontroller(기본)`        |      | `05_frontcontroller(심화)`        |      |
-| 01 Spring 이해                                  | `06_spring_intro(기본)`           |      | `06_spring_intro(심화)`           |      |
-| 02 Spring MVC                                   | `07_spring_mvc(기본)`             |      | `07_spring_mvc(심화)`             |      |
-| 03 Spring-MyBatis 연동                          | `08_spring_mybatis(기본)`         |      | `08_spring_mybatis(심화)`         |      |
-| 04 Spring 기본 게시판                           | `09_spring_board(기본)`           |      | `09_spring_board(심화)`           |      |
-| 05 Spring 게시판 + 파일 업로드                 | `10_spring_board_upload(기본)`    |      | `10_spring_board_upload(심화)`    |      |
-| 06 Rest                                         | `11_spring_rest(기본)`            |      | `11_spring_rest(심화)`            |      |
-| 07 OpenAPI 연동                                 | `12_spring_openapi(기본)`         |      | `12_spring_openapi(심화)`         |      |
-| 08 Spring AOP                                   | `13_spring_aop(기본)`             |      | `13_spring_aop(심화)`             |      |
-| 09 Spring Security (Form 인증)                  | `14_spring_security_form(기본)`   |      | `14_spring_security_form(심화)`   |      |
-| 10 Spring Security (JWT 인증)                   | `15_spring_security_jwt(기본)`    |      | `15_spring_security_jwt(심화)`    |      |
+| 항목                                           | 기본 제출 | 심화 제출 |
+| ---------------------------------------------- | :-------: | :-------: |
+| 01 서블릿 기초                                 |           |           |
+| 02 JSP의 이해                                  |           |           |
+| 03 서블릿 심화                                 |           |           |
+| 04 요청 포워딩, EL, JSTL                       |           |           |
+| 05 FrontController                              |           |           |
+| 01 Spring 이해                                  |           |           |
+| 02 Spring MVC                                   |           |           |
+| 03 Spring-MyBatis 연동                          |           |           |
+| 04 Spring 기본 게시판                           |           |           |
+| 05 Spring 게시판 + 파일 업로드                 |           |           |
+| 06 Rest                                         |           |           |
+| 07 OpenAPI 연동                                 |           |           |
+| 08 Spring AOP                                   |           |           |
+| 09 Spring Security (Form 인증)                  |           |           |
+| 10 Spring Security (JWT 인증)                   |           |           |
 
 ---
 
