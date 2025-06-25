@@ -106,6 +106,9 @@ KB IT's Your Life 실습과제
 | 03 서블릿 심화                 | `03_jsp(basic)`  |  ✅    | `03_jsp(advance)` |      |
 | 04 요청 포워딩, EL, JSTL       |   `04_jsp(basic)`  | ✅     | `04_jsp(advance)` |      |
 | 05 FrontController             |  `05_jsp(basic)` |      | `05_jsp(advance)` |      |
+
+
+
 | 01 Spring 이해                 | `01_spring(basic)` |  ✅    | `01_spring(advance)` |      |
 | 02 Spring MVC                  | `02-1_spring(basic)` | ✅     | `02-2_spring(advance)` |  ✅    |
 |                   | `02-2_spring(basic)` | ✅     |                   |  ✅    |
@@ -117,7 +120,7 @@ KB IT's Your Life 실습과제
 | 08 Spring AOP                  | `08_spring(basic)` |      | `08_spring(advance)` |      |
 | 09 Spring Security (Form 인증) |  `09_spring(basic)` |      | `09_spring(advance)` |      |
 | 10 Spring Security (JWT 인증)  | `10_spring(basic)` |      | `10_spring(advance)` |      |
-
+| 11 Spring Security (JWT 인증 2)  | `11_spring(basic)` |      | `11_spring(advance)` |      |
 ---
 
 ---
