@@ -113,7 +113,7 @@ KB IT's Your Life 실습과제
 | ------------------------------ | --------------- | :--: | ----------------- | :--: |
 | 01 Spring 이해                 | `01_spring(basic)` |  ✅    | `01_spring(advance)` |      |
 | 02 Spring MVC                  | `02-1_spring(basic)` | ✅     | `02-1_spring(advance)` |  ✅    |
-|                   | `02-2_spring(basic)` | ✅     |                   |  ✅    |
+|                   | `02-2_spring(basic)` | ✅     |  `02-2_spring(advance)`  |     |
 | 03 Spring-MyBatis 연동         | `03_spring(basic)` |  ✅    | `03_spring(advance)` |      |
 | 04 Spring 기본 게시판          |`04_spring(basic)` | ✅     | `04_spring(advance)` |      |
 | 05 Spring 게시판 + 파일 업로드 | `05_spring(basic)` |  ✅    | `05_spring(advance)` |      |
