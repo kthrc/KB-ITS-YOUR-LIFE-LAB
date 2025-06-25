@@ -107,8 +107,10 @@ KB IT's Your Life 실습과제
 | 04 요청 포워딩, EL, JSTL       |   `04_jsp(basic)`  | ✅     | `04_jsp(advance)` |      |
 | 05 FrontController             |  `05_jsp(basic)` |      | `05_jsp(advance)` |      |
 
+---
 
-
+| 항목                           | 기본 디렉토리   | 제출 | 심화 디렉토리     | 제출 |
+| ------------------------------ | --------------- | :--: | ----------------- | :--: |
 | 01 Spring 이해                 | `01_spring(basic)` |  ✅    | `01_spring(advance)` |      |
 | 02 Spring MVC                  | `02-1_spring(basic)` | ✅     | `02-2_spring(advance)` |  ✅    |
 |                   | `02-2_spring(basic)` | ✅     |                   |  ✅    |
